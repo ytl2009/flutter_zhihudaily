@@ -1,0 +1,4 @@
+#Wed Jun 20 11:54:44 CST 2018
+base.0=G\:\\FlutterApp\\flutter_zhihudaily\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

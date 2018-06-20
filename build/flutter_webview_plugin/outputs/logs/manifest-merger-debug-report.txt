@@ -1,0 +1,11 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.1.6\android\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from C:\Users\Administrator\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.1.6\android\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from C:\Users\Administrator\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.1.6\android\src\main\AndroidManifest.xml:1:1-4:12
+	package
+		ADDED from C:\Users\Administrator\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.1.6\android\src\main\AndroidManifest.xml:2:11-47
+		INJECTED from C:\Users\Administrator\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.1.6\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.1.6\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\AppData\Roaming\Pub\Cache\hosted\pub.dartlang.org\flutter_webview_plugin-0.1.6\android\src\main\AndroidManifest.xml:1:11-69
